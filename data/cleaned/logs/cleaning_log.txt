@@ -1,0 +1,12 @@
+[2026-02-15T23:03:50] START files=5
+[2026-02-15T23:03:50] END rows=18270 bad_json=0 csv=weather_cleaned.csv
+[2026-02-16T10:15:41] START files=10
+[2026-02-16T10:15:42] END rows=36540 bad_json=0 csv=weather_cleaned.csv
+[2026-02-16T10:19:21] START files=10
+[2026-02-16T10:19:22] END rows=36540 bad_json=0 csv=weather_cleaned.csv
+[2026-02-16T10:28:12] START files=10
+[2026-02-16T10:28:12] END rows=36540 bad_json=0 csv=weather_cleaned.csv
+[2026-02-16T10:30:47] START files=10
+[2026-02-16T10:30:48] END rows=36540 bad_json=0 csv=weather_cleaned.csv
+[2026-02-16T10:32:24] START files=10
+[2026-02-16T10:32:24] END rows=36540 bad_json=0 csv=weather_cleaned.csv

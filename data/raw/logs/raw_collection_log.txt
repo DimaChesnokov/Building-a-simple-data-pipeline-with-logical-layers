@@ -1,0 +1,38 @@
+[2026-02-16T10:15:02] START (open-meteo) start=2016-02-16 end=2026-02-16 cities=5
+[2026-02-16T10:15:05] OK Moscow file=2016-02-16__2026-02-16.json
+[2026-02-16T10:15:08] OK Saint Petersburg file=2016-02-16__2026-02-16.json
+[2026-02-16T10:15:32] START (open-meteo) start=2016-02-16 end=2026-02-16 cities=5
+[2026-02-16T10:15:32] SKIP exists Moscow file=2016-02-16__2026-02-16.json
+[2026-02-16T10:15:32] SKIP exists Saint Petersburg file=2016-02-16__2026-02-16.json
+[2026-02-16T10:15:35] OK Sochi file=2016-02-16__2026-02-16.json
+[2026-02-16T10:15:38] OK Kazan file=2016-02-16__2026-02-16.json
+[2026-02-16T10:15:41] OK Novosibirsk file=2016-02-16__2026-02-16.json
+[2026-02-16T10:15:41] END ok=3 fail=0
+[2026-02-16T10:19:21] START (open-meteo) start=2016-02-16 end=2026-02-16 cities=5
+[2026-02-16T10:19:21] SKIP exists Moscow file=2016-02-16__2026-02-16.json
+[2026-02-16T10:19:21] SKIP exists Saint Petersburg file=2016-02-16__2026-02-16.json
+[2026-02-16T10:19:21] SKIP exists Sochi file=2016-02-16__2026-02-16.json
+[2026-02-16T10:19:21] SKIP exists Kazan file=2016-02-16__2026-02-16.json
+[2026-02-16T10:19:21] SKIP exists Novosibirsk file=2016-02-16__2026-02-16.json
+[2026-02-16T10:19:21] END ok=0 fail=0
+[2026-02-16T10:28:12] START (open-meteo) start=2016-02-16 end=2026-02-16 cities=5
+[2026-02-16T10:28:12] SKIP exists Moscow file=2016-02-16__2026-02-16.json
+[2026-02-16T10:28:12] SKIP exists Saint Petersburg file=2016-02-16__2026-02-16.json
+[2026-02-16T10:28:12] SKIP exists Sochi file=2016-02-16__2026-02-16.json
+[2026-02-16T10:28:12] SKIP exists Kazan file=2016-02-16__2026-02-16.json
+[2026-02-16T10:28:12] SKIP exists Novosibirsk file=2016-02-16__2026-02-16.json
+[2026-02-16T10:28:12] END ok=0 fail=0
+[2026-02-16T10:30:47] START (open-meteo) start=2016-02-16 end=2026-02-16 cities=5
+[2026-02-16T10:30:47] SKIP exists Moscow file=2016-02-16__2026-02-16.json
+[2026-02-16T10:30:47] SKIP exists Saint Petersburg file=2016-02-16__2026-02-16.json
+[2026-02-16T10:30:47] SKIP exists Sochi file=2016-02-16__2026-02-16.json
+[2026-02-16T10:30:47] SKIP exists Kazan file=2016-02-16__2026-02-16.json
+[2026-02-16T10:30:47] SKIP exists Novosibirsk file=2016-02-16__2026-02-16.json
+[2026-02-16T10:30:47] END ok=0 fail=0
+[2026-02-16T10:32:24] START (open-meteo) start=2016-02-16 end=2026-02-16 cities=5
+[2026-02-16T10:32:24] SKIP exists Moscow file=2016-02-16__2026-02-16.json
+[2026-02-16T10:32:24] SKIP exists Saint Petersburg file=2016-02-16__2026-02-16.json
+[2026-02-16T10:32:24] SKIP exists Sochi file=2016-02-16__2026-02-16.json
+[2026-02-16T10:32:24] SKIP exists Kazan file=2016-02-16__2026-02-16.json
+[2026-02-16T10:32:24] SKIP exists Novosibirsk file=2016-02-16__2026-02-16.json
+[2026-02-16T10:32:24] END ok=0 fail=0
